@@ -1,0 +1,10 @@
+PODS:
+  - IAPManager (0.2.2)
+
+DEPENDENCIES:
+  - IAPManager
+
+SPEC CHECKSUMS:
+  IAPManager: fb36017e64524e2ecb9ae2101daaa83165cc5211
+
+COCOAPODS: 0.21.0.rc1
