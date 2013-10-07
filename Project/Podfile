@@ -1,3 +1,0 @@
-platform :ios
-
-ipodspec :podspec => "../IAPAdapter.podspec"
