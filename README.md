@@ -18,5 +18,5 @@ Usage
 [[IAPAdapter instance] hasPurchased:@"productId"] // true
 ```
 
-3.) Running in the simulator
-Since IAPs do not really work in the simulator, whenever you try to purchase in the simulator, IAPAdapter will immediately succeed and call your success callback.
+3.) Running in the simulator  
+Whenever you try to purchase in the simulator, IAPAdapter will immediately succeed and call your success callback.
